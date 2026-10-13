@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
