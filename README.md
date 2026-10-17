@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
