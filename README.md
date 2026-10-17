@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
