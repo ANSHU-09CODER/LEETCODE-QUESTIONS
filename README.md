@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -71,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
 | ------- |
@@ -112,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
