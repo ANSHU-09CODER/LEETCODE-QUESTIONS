@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
