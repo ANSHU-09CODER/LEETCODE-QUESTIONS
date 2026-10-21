@@ -88,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
