@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1408-string-matching-in-an-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1408-string-matching-in-an-array) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
