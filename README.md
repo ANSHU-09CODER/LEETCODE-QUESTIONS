@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1408-string-matching-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
