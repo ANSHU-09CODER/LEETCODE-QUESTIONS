@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
