@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
