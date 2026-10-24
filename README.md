@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
