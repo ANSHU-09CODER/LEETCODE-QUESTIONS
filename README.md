@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
