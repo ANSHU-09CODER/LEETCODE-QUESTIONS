@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0219-contains-duplicate-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
