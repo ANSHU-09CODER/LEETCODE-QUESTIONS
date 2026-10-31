@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0394-decode-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0415-add-strings) |
 ## Backtracking
 |  |
