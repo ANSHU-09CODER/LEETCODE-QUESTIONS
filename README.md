@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
