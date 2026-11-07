@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Counting
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
@@ -196,5 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
