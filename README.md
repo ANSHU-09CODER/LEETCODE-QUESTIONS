@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
