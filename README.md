@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
