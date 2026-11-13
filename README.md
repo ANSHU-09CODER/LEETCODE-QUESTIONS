@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 | [1408-string-matching-in-an-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
