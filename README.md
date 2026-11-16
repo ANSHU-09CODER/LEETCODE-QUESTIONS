@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ANSHU-09CODER/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
